@@ -42,5 +42,6 @@ https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 - cd DLS_part_1
 - pip3 install --upgrade pip
 - pip3 install -r requirements.txt
-- python3 main.py
+- python3 main.py  
+
 Если какие-то зависимости не установились, можно попробовать поставить их отдельной с другой версией.
