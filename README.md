@@ -35,6 +35,12 @@ https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 затем - второй.
 
 ## Как запустить?
-- git clone
+Нужна версия python 3.8
+- python3 -m venv tel-env
+- source tel-env/bin/activate
+- git clone https://github.com/A-n-d-r-e-w-y/DLS_part_1.git
+- cd DLS_part_1
+- pip3 install --upgrade pip
 - pip3 install -r requirements.txt
 - python3 main.py
+Если какие-то зависимости не установились, можно попробовать поставить их отдельной с другой версией.
