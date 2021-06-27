@@ -34,6 +34,7 @@ https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 Бот работает в асинхронном режиме. Предполагается, что каждый юзер последовательно выбирает контент, затем первый стиль,
 затем - второй.
 
+
 ## Как запустить?
 Нужна версия python 3.8
 - python3 -m venv tel-env
@@ -45,3 +46,6 @@ https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 - python3 main.py  
 
 Если какие-то зависимости не установились, можно попробовать поставить их отдельной с другой версией.
+
+P.S. по всем вопросам писать сюда:  
+https://t.me/Andrewyyy (могу и запустить бота)
